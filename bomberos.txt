@@ -1,0 +1,190 @@
+0	0			Silenciar transmisiones o poner fin al silencio (fin clave 0-0).
+0	1			De o amplíe pre informe.
+0	2			Mantenga, se consultará e informará.
+0	3			Repita la información en forma lenta y pausada.
+0	4			Indique de qué se trata/se trata de ...
+0	5			Indique su ubicación.
+0	6			Diríjase al lugar con alarmas.
+0	7			Llegue al lugar sin alarmas.
+0	8			Material mayor fuera de servicio.
+0	9			Material mayor en servicio.
+0	10			Regrese a su cuartel.
+0	11			Guardia preventiva en cuartel ...
+1	0			Solicite presencia de Carabineros.
+1	1			Solicite apoyo aéreo.
+1	2			Solicite presencia de ambulancia.
+1	3			Solicite presencia de personal de emergencia comunal.
+1	4			Solicite presencia de personal de la empresa ... [indicar empresa] (CGE, Frontel, Aguas San Pedro, Aguas Araucanía, Gasco, etc).
+1	5			Solicite presencia de CONAF.
+1	6			Solicite presencia de Comandante de guardia.
+1	7			Solicite presencia de Capitán de guardia.
+1	8			Solicite la presencia del departamento de estudios técnicos (D.E.T.).
+1	9			Solicite la presencia de grupo de rescate.
+1	10			Solicite la presencia de equipo de materiales peligrosos.
+1	11			Solicite apoyo bomberil de ... [indicar apoyo].
+1	12			Solicite el apoyo externo de ... [SEREMI, SENAPRED, grúa, etc].
+2	0			Despache al lugar carro bomba.
+2	1			Despache al lugar carro portaescalas.
+2	2			Despache al lugar carro de rescate vehicular.
+2	3			Despache al lugar ambulancia del Cuerpo.
+2	4			Despache al lugar carro forestal.
+2	5			Despache al lugar carro especializado haz-mat.
+2	6			Despache al lugar carro ... [indicar carro expecífico]
+2	7			Despache al lugar mecánica.
+2	8			Despache al lugar carro de transporte.
+2	9			Despache al lugar G.E.R.S.A.
+2	10			Despache al lugar carro de brigada.
+2	11			Despache al lugar carro de rescates especiales.
+2	12			Despache al lugar unidad con cascada de aire comprimido.
+3	0			Solicita comunicación telefónica con la central de alarmas.
+3	1			Solicita comunicación telefónica con el cuartel general.
+3	2			Solicita comunicación telefónica con su compañía.
+3	3			Solicita comunicación telefónica con su domicilio.
+3	4			Solicita comunicación telefónica con su trabajo.
+3	5			Solicita comunicación telefónica con el número ... [indicar número].
+3	6			Desocupar teléfono de la ... [indicar compañía].
+3	7			Solicita comunicación telefónica a su celular.
+33				Urgente
+5	1			Frecuencia nacional de bomberos.
+5	2			Frecuencia de emergencias.
+5	3			Frecuencia de capitanes.
+5	4			Frecuencia de trabajo 1.
+5	5			Frecuencia de trabajo 2.
+5	6			Frecuencia de Comandantes.
+5	7			Frecuencia interna de su compañía.
+5	8			A la escucha únicamente con receptor.
+6	0			Dar conforme, persona a cargo, número de voluntarios y si va personal especializado.
+6	1			Material mayor se dirige sin personal.
+6	2			Indique la dirección exacta.
+6	3			Material mayor en el lugar.
+6	4			Se solicitan instrucciones.
+6	5			Indique ubicación de grifos próximos al lugar.
+6	6			Se solicita más personal al lugar.
+6	7			Situación controlada.
+6	8			Material mayor se encuentra disponible.
+6	9			Material mayor se retira del lugar del llamado.
+6	10			Material mayor en su cuartel.
+6	11			Material mayor en panne.
+6	12			Material mayor sufrió colisión.
+6	13			Material mayor se dirige a: eléctrico, mecánico o trámite de la compañía.
+6	14			Material mayor se dirige a servicentro.
+6	15			Material mayor se dirige a centro asistencial a recuperar material.
+6	16			Falsa alarma.
+6	17			Alarma pública.
+6	18			Material mayor fuera de servicio por encontrarse en proceso de abastecimiento de agua.
+7	0			Se establece puesto de comando y se indica oficial a cargo.
+7	1			Indicar hora del llamado, alarma y material mayor concurrente.
+7	2			Indique ubicación, voluntario al mando, labor que realiza y si se encuentra armado a grifo.
+7	3			Cadáver en el lugar.
+7	4			Artefacto explosivo o incendiario.
+7	5			Se sufre agresión.
+7	6			Apoyo logístico.
+7	7			Informar a la prensa.
+7	8			Bombero sufrió accidente.
+8	0			Comandante se encuentra disponible.
+8	1			Comandante no se encuentra disponible.
+8	2			Envíe unidad K al cuartel de la [indicar compañía].
+8	3			Envíe unidad K a mi domicilio.
+8	4			Envíe unidad K a mi oficina.
+8	5			Envíe unidad K a [indicar lugar].
+8	6			Me dirijo al lugar en ...
+8	7			Concurrir todos los Comandantes.
+9	0			Guardia preventiva grado ... (1, 2 o 3).
+9	0	1		Guardia de ... [indicar cantidad] voluntarios por compañía.
+9	0	2		Acuartelamiento de guardia nocturna desde las ... [indicar hora] horas.
+9	0	3		Acuartelamiento general inmediato.
+10	0			Llamado estructural.
+10	0	0		Inflamación de ducto o chimenea en vivienda.
+10	0	1		Llamado estructural en vivienda.
+10	0	2		Llamado estructural en edificio de 3 pisos.
+10	0	3		Llamado estructural en edificio de 4 pisos o más.
+10	0	4		Llamado estructural en colegio, internado o jardín infantil.
+10	0	5		Llamado estructural en centro de gran afluencia de público.
+10	0	6		Llamado estructural en hospital, consultorio, clínica, farmacia o laboratorio.
+10	0	7		Llamado estructural en servicentro o depósito de gas.
+10	0	8		Llamado estructural en subterráneo.
+10	0	9		Llamado estructural en bodega hazmat, industria o ferretería.
+10	0	10		Llamado estructural en zona rural.
+10	0	11		Llamado estructural en cárcel, recinto militar, dependencias de PDI o Carabineros.
+10	0	12		Llamado estructural en con presencia de personas con movilidad restringida.
+10	0	13		Llamado estructural en barraca o supermercado.
+10	0	14		Llamado estructural en cuartel de bomberos.
+10	1			Fuego en vehículo.
+10	1	1		Fuego en vehículo menor.
+10	1	2		Fuego en vehículo de transporte de gas/combustible.
+10	1	3		Fuego en bus o micro.
+10	1	4		Fuego en locomotora o vagón de tren.
+10	1	5		Fuego en avioneta o helicóptero.
+10	1	6		Fuego en vehículo cargado con GLP.
+10	2			Fuego en pastizales, árboles, cerro o bosque.
+10	2	1		Fuego en pastizales y/o matorrales en zona urbana.
+10	2	2		Fuego en pastizales, matorrales, cerro o bosque en zona rural con riesgo de viviendas.
+10	2	3		Fuego en pastizales o basura en interior de vertedero.
+10	3			Rescate de emergencia en auxilio de personas encerradas, atrapadas y/o con riesgo de caída.
+10	3	0		Posible paro cardiorespiratorio.
+10	3	1		Presunta desgracia, anillo atrapado en dedo, atrapamiento de alguna extremidad o persona encerrada en interior de vehículo.
+10	3	2		Rescate de persona encerrada en vivienda o departamento.
+10	3	3		Rescate en pozo seco.
+10	3	4		Rescate en quebrada o ladera de cerro.
+10	3	5		Rescate de persona en río o canal.
+10	3	6		Rescate en altura.
+10	3	7		Rescate en ascensor.
+10	3	8		Rescate de persona en zanja, espacio confinado o alcantarillado.
+10	3	9		Persona suicida en puente.
+10	3	10		Persona suicida en pasarela o paso nivel.
+10	3	11		Persona suicida en edificio, torre o antena.
+10	3	12		Rescate en derrumbe o aluvión.
+10	3	13		Atropello o caída en moto.
+10	4			Rescate vehicular.
+10	4	1		Rescate vehicular con hasta 3 lesionados.
+10	4	2		Rescate vehicular con más de 3 vehículos, con más de 4 personas lesionadas o camión o micro involucrados.
+10	4	3		Rescate vehicular con bus, tren o vehículo de transporte escolar involucrado.
+10	4	4		Rescate vehicular en puente, río o canal.
+10	4	5		Rescate vehicular en quebrada.
+10	4	6		Rescate vehicular con camión 3/4 o vehículo hazmat involucrado.
+10	4	7		Rescate vehicular con vehículos de Bomberos Temuco involucrados.
+10	4	8		Rescate vehicular con voluntarios bomberiles involucrados.
+10	5			Emergencias en las que haya derrames y/o emanación de materiales peligrosos.
+10	5	1		Llamado por fuga de gas o derrame inferior a 200 litros en la vía pública.
+10	5	2		Llamado por incidente hazmat.
+10	5	3		Colisión de vehículo mayor de transporte de gas/combustible/hazmat.
+10	6			Llamado por emanación de gas.
+10	7			Llamado eléctrico.
+10	7	1		Llamado por accidente eléctrico en vivienda o local comercial.
+10	7	2		Fuego en transformadores en la vía pública.
+10	7	3		Fuego en subestaciones eléctricas.
+10	8			Llamado no clasificado.
+10	9			Otros servicios.Solicitudes de ayuda y todas las solicitudes que requieran presencia bomberil sin ser emergencias.
+10	9	1		Apoyo a SAMU o a bomberos.
+10	9	2		Llamado para apertura de departamento con artefacto encendido al interior.
+10	9	3		Llamado para recuperación de cadáver.
+10	9	4		Descomposión orgánica.
+10	9	5		Rescate animal en pozo con o sin agua.
+10	9	6		Animal pequeño en alcantarillado o árbol.
+10	9	7		Inundación o anegamiento.
+10	9	8		Voladura de techo o caída de árbol.
+10	9	9		Caída de letrero.
+10	10			Llamado a remoción de escombros.
+10	11			Llamado por accidente aéreo fuera de aeropuerto, aeródromo o base.
+10	12			Llamado de apoyo a otros Cuerpos de Bomberos.
+10	13			Llamado a artefacto explosivo o atentado terrorista.
+10	14			Llamado a accidente aéreo ocurrido dentro de aeropuerto, aeródromo o base.
+10	15			Simulacro.
+11	0			Indique como recibe.
+11	1			Fuerte y claro.
+11	2			Se recibe con interferencias.
+11	3			Central operando sólo por frencuencia principal.
+11	4			Indique operadoras(es) en servicio.
+11	5			Central de alarmas y telecomunicaciones inicia transmisión de prueba.
+11	6			Central de alarmas y telecomunicaciones con transmisión abierta.
+12	0			Diríjase al lugar sin alarmas.
+12	1			Asigna cuartel de reemplazo.
+12	2			Retira cuartel de reemplazo.
+12	3			Diríjase con máxima precaución.
+12	4			Toque sirena de cuartel.
+12	5			Active inversor de voz.
+12	6			Material mayor suficiente en el lugar.
+12	7			No armar.
+12	8			Capitán ... [indicar quién] asume el mando del Cuerpo.
+12	9			Citación a ... [indicar compañía].
+12	10			Se solicita conductor para ... [indicar qué unidad].
